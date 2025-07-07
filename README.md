@@ -23,4 +23,4 @@
 Install dependencies (if needed):
 
 ```bash
-pip install colorama requests
+pip install -r requirements.txt
