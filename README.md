@@ -57,4 +57,4 @@ Note:
 ```
 ## 🖼️ Sample Output
 
-![Sample Output](screenshot.png)
+![Sample Output](screenshot.jpg)
