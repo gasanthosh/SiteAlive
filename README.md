@@ -9,7 +9,7 @@
 
 1. [🚀 Features](#features)
 2. [🔗 Usage](#usage)
-3. [⚠️ Disclaimer.](Disclaimer)
+3. [⚠️ Disclaimer](#disclaimer)
    
    
   
