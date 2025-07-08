@@ -32,11 +32,29 @@
 ```bash
 git clone https://github.com/gasanthosh/SiteAlive.git
 ```
-## 📎 Requirements
+## 📎 Installing Requirements
 ```bash
 pip install -r requirements.txt
 ```
 ## Usage
 ```bash
 python sitealive.py -h
+
+SiteAlive - A tool to check if a website is alive.
+options:
+  -h, --help      show this help message and exit
+  --url URL       Insert the url to check (e.g):google.com
+  --show-headers  Display the headers
+
+
+Example:
+    python sitealive.py --url example.com
+    python sitealive.py --url http://example.com
+Note:
+    You can skip http since it includes one by default.
+
+                            -Developed by Santhosh
 ```
+## 🖼️ Sample Output
+
+![Sample Output](screenshot.png)
