@@ -1,15 +1,16 @@
 # 🌐 SiteAlive ![Version](https://img.shields.io/badge/version-1.0-green) 
 ![License](https://img.shields.io/github/license/gasanthosh/SiteAlive)
 ![Built with](https://img.shields.io/badge/Built%20with-Python-blue?logo=python)
-![Stars](https://img.shields.io/github/stars/gasanthosh/SiteAlive?style=social)
 
 🛠️ **SiteAlive** is a simple, colorful Python CLI tool to check whether a website is active and optionally display its response headers. It’s great for quick uptime checks and learning basic Python, networking, and CLI development.
 
 ---
 ## 🔗 Table of Contents
 
-1. [Features](#features)
-3. [Usage](#usage)
+1. [🚀 Features](#features)
+2. [🔗 Usage](#usage)
+3. [⚠️ Disclaimer.](Disclaimer)
+   
    
   
 ## Features
@@ -58,3 +59,8 @@ Note:
 ## 🖼️ Sample Output
 
 ![Sample Output](screenshot.jpg)
+
+## Disclaimer
+
+This tool is intended for **educational and legitimate testing purposes only**. Do not use it to scan or test websites without **proper authorization**. The author is **not responsible for any misuse** of this script.
+Use responsibly.
